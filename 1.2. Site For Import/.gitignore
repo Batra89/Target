@@ -4,4 +4,4 @@ Thumbs.db
 *_old
 *_backup
 *_old, tmp, tmp/.
-.DS_Store
+*.DS_Store
